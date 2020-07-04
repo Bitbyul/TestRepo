@@ -1,0 +1,6 @@
+# ninja log v5
+0	408	615540252	Server/CMakeFiles/Server.dir/CarPetServer.cpp.obj	99be187b398bdf71
+412	815	615540252	Server/Server.exe	ecced2d596c24092
+1	566	615542502	Server/CMakeFiles/Server.dir/CarPetServer.cpp.obj	99be187b398bdf71
+6	690	615542502	Server/CMakeFiles/Server.dir/Start.cpp.obj	970c324e49a5a8d4
+690	931	615542502	Server/Server.exe	fbb8d21c5ee79277
