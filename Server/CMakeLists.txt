@@ -6,4 +6,4 @@ cmake_minimum_required (VERSION 3.8)
 project ("Server")
 
 # 하위 프로젝트를 포함합니다.
-add_subdirectory ("Server")
+add_subdirectory ("src")

@@ -1,6 +1,6 @@
 # ninja log v5
-0	408	615540252	Server/CMakeFiles/Server.dir/CarPetServer.cpp.obj	99be187b398bdf71
-412	815	615540252	Server/Server.exe	ecced2d596c24092
-1	566	615542502	Server/CMakeFiles/Server.dir/CarPetServer.cpp.obj	99be187b398bdf71
-6	690	615542502	Server/CMakeFiles/Server.dir/Start.cpp.obj	970c324e49a5a8d4
-690	931	615542502	Server/Server.exe	fbb8d21c5ee79277
+1	295	615549997	src/CMakeFiles/Server.dir/CarPetServer.cpp.obj	b82b7b2baf3c939e
+7	5493	615550002	src/CMakeFiles/Server.dir/Start.cpp.obj	49332a0724eadee5
+5514	6647	615550003	src/Server.exe	ba40ec575a9eda80
+1	5438	615550024	src/CMakeFiles/Server.dir/Start.cpp.obj	49332a0724eadee5
+5460	6380	615550025	src/Server.exe	ba40ec575a9eda80
